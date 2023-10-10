@@ -1,0 +1,22 @@
+[
+{
+    "team1Name": "Man United",
+    "team1Logo": "https://www.premierleague.com/clubs/12/Manchester-United/overview",
+    "team2Name": "Brentford",
+    "team2Logo": "https://www.premierleague.com/clubs/130/Brentford/overview",
+    "league":"Premier League",
+    "date":"10/10/2023",
+    "time":"22:00",
+    "timestamp":"202310102158",
+    "links":[
+      {
+        "title":"Live 1 HD",
+        "url":""
+      },
+      {
+        "title":"Live 2 HD",
+        "url":""
+      }
+    ]
+}
+]
