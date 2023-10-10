@@ -18,26 +18,6 @@
         "url":""
       }
     ]
-},
-  {
-    "team1Name": "",
-    "team1Logo": "",
-    "team2Name": "",
-    "team2Logo": "",
-    "league":"",
-    "date":"",
-    "time":"",
-    "timestamp":"",
-    "links":[
-      {
-        "title":"Live 1 HD",
-        "url":""
-      },
-      {
-        "title":"Live 2 HD",
-        "url":""
-      }
-    ]
-  }
+}
 
 ]
